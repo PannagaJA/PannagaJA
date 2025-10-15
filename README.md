@@ -2,7 +2,7 @@
 
 <!-- 🌌 Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Pannaga+J+A;Frontend+%26+Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Futuristic+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Pannaga+J+A;Frontend+%26+Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Futuristic+Web+Apps" alt="Typing SVG" />
 </p>
 
 ---
