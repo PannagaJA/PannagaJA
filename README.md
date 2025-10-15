@@ -83,10 +83,8 @@ Worked on **AI-driven campus automation, smart surveillance, and mental health s
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PannagaJA/PannagaJA/main/assets/github-contribution-grid-snake.svg" alt="Contribution Snake" height="180" />
+  <img src=".github/workflows/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
-> ⚠️ **Note:** Make sure `github-contribution-grid-snake.svg` exists in `assets/` folder in your repo.
 
 ---
 
