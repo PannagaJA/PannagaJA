@@ -21,11 +21,27 @@ Worked on **AI-driven campus automation, smart surveillance, and mental health s
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:pannaga@example.com"><img src="https://img.shields.io/badge/Email-00D1F2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-161616?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+  <!-- Instagram -->
+  <a href="[https://www.instagram.com/pannagaja/](https://www.instagram.com/pannaga_bhat_/)">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/pannagaja/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:pannagaja@example.com">
+    <img src="https://img.shields.io/badge/Email-00D1F2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://pannagaja.com/">
+    <img src="https://img.shields.io/badge/Portfolio-161616?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
