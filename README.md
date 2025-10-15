@@ -22,7 +22,7 @@ Worked on **AI-driven campus automation, smart surveillance, and mental health s
 ## 🌐 Connect with Me
 <p align="center">
   <!-- Instagram -->
-  <a href="[https://www.instagram.com/pannagaja/](https://www.instagram.com/pannaga_bhat_/)">
+  <a href="https://www.instagram.com/pannaga_bhat_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
@@ -32,12 +32,12 @@ Worked on **AI-driven campus automation, smart surveillance, and mental health s
   </a>
 
   <!-- Email -->
-  <a href="mailto:pannagaja@example.com">
+  <a href="mailto:pannaga.baradwaj@gmail.com">
     <img src="https://img.shields.io/badge/Email-00D1F2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <!-- Portfolio -->
-  <a href="https://pannagaja.com/">
+  <a href="https://pannagaja.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-161616?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
 </p>
