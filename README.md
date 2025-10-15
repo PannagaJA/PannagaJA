@@ -74,8 +74,11 @@ Worked on **AI-driven campus automation, smart surveillance, and mental health s
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- GitHub general stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=PannagaJA&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=PannagaJA&theme=radical&hide_border=true" height="160"/>
+  
+  <!-- GitHub streak stats using Heroku (reliable) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PannagaJA&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
