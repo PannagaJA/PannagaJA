@@ -18,7 +18,8 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: PannagaJA
-          outputs: assets/github
+          svg_out_path: assets/github/snake.svg
+          # gif_out_path: assets/github/snake.gif   # optional
 
       - name: Commit & Push snake images
         run: |
