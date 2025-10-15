@@ -37,8 +37,9 @@ Currently pursuing **B.E. in CSE (AI & ML)** at **A.M.C. Engineering College, Be
 
   <!-- Portfolio -->
   <a href="https://pannagaja.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-lightgrey?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=4ECDC4" />
   </a>
+  
 
 
 </p>
