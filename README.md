@@ -27,7 +27,7 @@ Worked on **AI-driven campus automation, smart surveillance, and mental health s
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/pannagaja/">
+  <a href="https://www.linkedin.com/in/pannaga-ja/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
