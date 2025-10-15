@@ -1,14 +1,24 @@
-# 💫 About Me
-Hi, I'm **Pannaga J A**  
-Frontend & Full-Stack Developer | AI & ML Enthusiast | Tech Innovator
 
-I am passionate about building **intelligent, interactive, and scalable web applications**.  
-Currently pursuing **B.E. in CSE (AI & ML)** at **A.M.C. Engineering College, Bengaluru**.  
-Worked on projects involving **AI-driven solutions, real-time monitoring, and automated systems**.  
+<!-- 🌌 Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Pannaga+J+A;Frontend+%26+Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Futuristic+Web+Experiences" alt="Typing SVG" />
+</p>
 
 ---
 
-# 🌐 Socials
+## 💫 About Me
+Hi, I'm **Pannaga J A**  
+Frontend & Full-Stack Developer | AI & ML Enthusiast | Tech Innovator  
+
+I create **intelligent, interactive, and scalable web applications** with futuristic UI/UX.  
+Currently pursuing **B.E. in CSE (AI & ML)** at **A.M.C. Engineering College, Bengaluru**.  
+Worked on **AI-driven campus automation, smart surveillance, and mental health solutions**.  
+
+> “Code the present, build the future.” ⚡  
+
+---
+
+## 🌐 Socials
 <p align="center">
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,7 +28,7 @@ Worked on projects involving **AI-driven solutions, real-time monitoring, and au
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -26,6 +36,7 @@ Worked on projects involving **AI-driven solutions, real-time monitoring, and au
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -49,29 +60,51 @@ Worked on projects involving **AI-driven solutions, real-time monitoring, and au
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🧠 Mind Me | Mental health assistant with chatbot, music & games | React, Flask, AI |
+| 🧍 Face Attendance | Automated attendance using face recognition & Google Sheets | OpenCV, TensorFlow |
+| 🛡️ Smart Surveillance | AI real-time campus monitoring & anomaly detection | Python, AI, CCTV |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pannagaja&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=pannagaja&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pannagaja&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=pannagaja&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/pannagaja/pannagaja/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
+---
+
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pannagaja&theme=radical&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-# 🔝 Top Contributed Repos
-
+## 🔝 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pannagaja&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pannagaja&layout=compact&theme=radical" />
 </p>
 
 ---
 
-✨ *“Code the present, build the future.”* — Pannaga J A
+## 🌌 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pannagaja&style=for-the-badge&color=00F0FF" />
+</p>
+
+---
+
+✨ *“The future belongs to those who code it.”* — Pannaga J A
