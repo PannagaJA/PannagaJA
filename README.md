@@ -81,10 +81,10 @@ Worked on **AI-driven campus automation, smart surveillance, and mental health s
 
 ---
 
-## 🐍 Contribution Snake
 <p align="center">
-  <img src=".github/workflows/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PannagaJA&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 
 ---
 
