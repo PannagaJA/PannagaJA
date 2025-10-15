@@ -1,8 +1,8 @@
-<!-- Futuristic GitHub Profile README -->
+<!-- Professional & Futuristic GitHub Profile README -->
 
-<!-- 🌌 Animated Typing Header -->
+<!-- 🌌 Animated Typing Header (Heroku service for reliability) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Pannaga+J+A;Frontend+%26+Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Futuristic+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Pannaga+J+A;Frontend+%26+Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Futuristic+Web+Apps" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,7 +19,7 @@ Worked on **AI-driven campus automation, smart surveillance, and mental health s
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -62,7 +62,6 @@ Worked on **AI-driven campus automation, smart surveillance, and mental health s
 ---
 
 ## 🚀 Featured Projects
-
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🧠 Mind Me | Mental health assistant with chatbot, music & games | React, Flask, AI |
@@ -72,12 +71,11 @@ Worked on **AI-driven campus automation, smart surveillance, and mental health s
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <!-- GitHub general stats -->
+  <!-- General stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=PannagaJA&show_icons=true&theme=radical&hide_border=true" height="160"/>
   
-  <!-- GitHub streak stats using Heroku (reliable) -->
+  <!-- Streak stats (reliable) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PannagaJA&theme=radical&hide_border=true" height="160"/>
 </p>
 
@@ -85,8 +83,10 @@ Worked on **AI-driven campus automation, smart surveillance, and mental health s
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PannagaJA/PannagaJA/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/PannagaJA/PannagaJA/main/assets/github-contribution-grid-snake.svg" alt="Contribution Snake" height="180" />
 </p>
+
+> ⚠️ **Note:** Make sure `github-contribution-grid-snake.svg` exists in `assets/` folder in your repo.
 
 ---
 
