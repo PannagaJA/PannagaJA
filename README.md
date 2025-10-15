@@ -82,7 +82,7 @@ Worked on **AI-driven campus automation, smart surveillance, and mental health s
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PannagaJA&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PannagaJA&theme=react-dark&area=true" alt="Activity Graph" />
 </p>
 
 
