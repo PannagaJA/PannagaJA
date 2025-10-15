@@ -13,7 +13,6 @@ Frontend & Full-Stack Developer | AI & ML Enthusiast | Tech Innovator
 
 I create **intelligent, interactive, and scalable web applications**.  
 Currently pursuing **B.E. in CSE (AI & ML)** at **A.M.C. Engineering College, Bengaluru**.  
-Worked on **AI-driven campus automation, smart surveillance, and mental health solutions**.  
 
 > “Code the present, build the future.” ⚡  
 
@@ -86,7 +85,6 @@ Perfect! Based on your repositories, here’s an updated **Featured Projects** t
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------- |
 | 🧠 **Mind Me**                                     | AI-driven mental health assistant with chatbot, music, and games                                   | React, Flask, AI                |
 | 🧍 **Attendance System using Face Recognition**    | Automated attendance using face recognition and Google Sheets                                      | OpenCV, TensorFlow, HTML        |
-| 📊 **HOD Dashboard / Attendance Tracker System**   | Academic management interface with semester/section management, notifications, and export features | React, TypeScript, Tailwind     |
 | 🛡️ **Smart Surveillance**                         | AI-powered real-time campus monitoring and anomaly detection                                       | Python, AI, CCTV                |
 | 🤖 **Chatbot for High Quality Bottles Case Study** | AI-driven query handling based on a PDF case study                                                 | Python Flask, React, TypeScript |
 | 📸 **Instagram Clone**                             | Social media platform clone with core Instagram features                                           | TypeScript, React               |
