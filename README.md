@@ -129,10 +129,13 @@ Perfect! Based on your repositories, here’s an updated **Featured Projects** t
 ---
 ---
 
+---
+
 ## 📦 Total Repositories
 <p align="center">
-  <img src="https://img.shields.io/github/repos/PannagaJA?style=for-the-badge&color=00F0FF&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/repo-count/PannagaJA?style=for-the-badge&color=00F0FF&logo=github&logoColor=white" />
 </p>
+
 
 
 ---
