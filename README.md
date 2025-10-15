@@ -1,7 +1,8 @@
+<!-- Futuristic GitHub Profile README -->
 
-<!-- 🌌 Animated Header -->
+<!-- 🌌 Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Pannaga+J+A;Frontend+%26+Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Futuristic+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Pannaga+J+A;Frontend+%26+Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Futuristic+Web+Apps" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +11,7 @@
 Hi, I'm **Pannaga J A**  
 Frontend & Full-Stack Developer | AI & ML Enthusiast | Tech Innovator  
 
-I create **intelligent, interactive, and scalable web applications** with futuristic UI/UX.  
+I create **intelligent, interactive, and scalable web applications**.  
 Currently pursuing **B.E. in CSE (AI & ML)** at **A.M.C. Engineering College, Bengaluru**.  
 Worked on **AI-driven campus automation, smart surveillance, and mental health solutions**.  
 
@@ -73,36 +74,36 @@ Worked on **AI-driven campus automation, smart surveillance, and mental health s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pannagaja&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=pannagaja&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PannagaJA&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=PannagaJA&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/pannagaja/pannagaja/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/PannagaJA/PannagaJA/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pannagaja&theme=radical&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PannagaJA&theme=radical&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
 ## 🔝 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pannagaja&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PannagaJA&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🌌 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pannagaja&style=for-the-badge&color=00F0FF" />
+  <img src="https://komarev.com/ghpvc/?username=PannagaJA&style=for-the-badge&color=00F0FF" />
 </p>
 
 ---
