@@ -76,13 +76,23 @@ Worked on **AI-driven campus automation, smart surveillance, and mental health s
 </p>
 
 ---
+Perfect! Based on your repositories, here’s an updated **Featured Projects** table including all the projects you’ve worked on:
+
+---
 
 ## 🚀 Featured Projects
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🧠 Mind Me | Mental health assistant with chatbot, music & games | React, Flask, AI |
-| 🧍 Face Attendance | Automated attendance using face recognition & Google Sheets | OpenCV, TensorFlow |
-| 🛡️ Smart Surveillance | AI real-time campus monitoring & anomaly detection | Python, AI, CCTV |
+
+| Project                                            | Description                                                                                        | Tech Stack                      |
+| -------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------- |
+| 🧠 **Mind Me**                                     | AI-driven mental health assistant with chatbot, music, and games                                   | React, Flask, AI                |
+| 🧍 **Attendance System using Face Recognition**    | Automated attendance using face recognition and Google Sheets                                      | OpenCV, TensorFlow, HTML        |
+| 📊 **HOD Dashboard / Attendance Tracker System**   | Academic management interface with semester/section management, notifications, and export features | React, TypeScript, Tailwind     |
+| 🛡️ **Smart Surveillance**                         | AI-powered real-time campus monitoring and anomaly detection                                       | Python, AI, CCTV                |
+| 🤖 **Chatbot for High Quality Bottles Case Study** | AI-driven query handling based on a PDF case study                                                 | Python Flask, React, TypeScript |
+| 📸 **Instagram Clone**                             | Social media platform clone with core Instagram features                                           | TypeScript, React               |
+| 🎮 **Gamified Learning Platform**                  | An AI-powered, interactive web app that makes learning fun with gamification, dashboards, and smart student tracking.| TypeScript, React ,Django       |
+| 🌐 **Portfolio**                                   | Personal portfolio website showcasing projects and skills                                          | TypeScript, React               |
+| 🧪 **Serverless-Squad Project**                    |HomeServe Pro: A secure, role-based web platform streamlining customer bookings, vendor operations, and admin management with AI and digital signature verification.| React, Python Flask, PostgreSQL, DocuSign API |
 
 ---
 
